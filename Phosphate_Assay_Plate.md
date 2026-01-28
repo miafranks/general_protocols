@@ -3,18 +3,21 @@
 Murphy and Riley (1962) A Modified Single Solution Method for the Determination of Phosphate in Natural Waters. Analytica Chimica Acta 27(1962)31-36. 
 
 ### Materials 
-* Microcentrifuge tubes
+* 15 mL centrifuge tubes (10 for standard curve + # of samples) 
 * Pipettes and tips
    * P200 (2x Std curve + # Samples)
    * P1000 (helpful for transfers)
-* Clear 96 well plates 
+* Cuvettes
+   * Disposable plastic cuvettes (one per sample/standard) or
+   * Reusable glass cuvette (rinsed thoroughly between reads)
+* Tube racks (15 mL)
 * Kimwipes
 * DI Water Squirt Bottle
 * Timer (for 30-minute incubation)
 * Aluminum foil
 * Ice bucket + ice
 * Chemical waste container (Labeled: Phosphate Assay Waste)
-* Instrument: Plate reader capable of reading 880 nm
+* Instrument: Spectrophotometer capable of reading 880 nm
 * 1x 1L amber glass schott bottle 
 * 1x 100ml plastic bottle 
 * 1x 100ml glass schott bottle 
@@ -46,14 +49,14 @@ Murphy and Riley (1962) A Modified Single Solution Method for the Determination 
 ### Reagent Preparation 
 1. 9N Sulfuric Acid Reagent (1L)
    1. Place 1L amber glass bottle on ice
-   2. Add 250 mL of sulfuric Acid to 750 mL of MQ water
+   2. Add 250 mL of sulfuric Acid to 750 mL of MQ water. 
    3. Once cooled, it can be stored in the acid cabinet
    4. This is very dangerous, do in the back of the hood, with most protective PPE
-2. Ammonium heptamolybdate Reagent (100ml)) --------------------
+2. Ammonium heptamolybdate Reagent (100ml))
    1. Dissolve 9.5g of ammonium heptamolybdate in 100 mL of MQ in a plastic bottle
    2. Solution is good as long as it remains clear
    3. Store in chemical shelf
-3. Potassium Antimony Tartrate Triydrate Solution (100ml) --------------------
+3. Potassium Antimony Tartrate Triydrate Solution (100ml)
    1. Dissolve 3.25g of potassium antimony tartrate in 100 mL of MQ water in glass schott bottle
    2. Store in hazardous chemical shelf 
 4. Ascorbic Acid solution (100ml)
@@ -65,7 +68,7 @@ Murphy and Riley (1962) A Modified Single Solution Method for the Determination 
    3. Add 5ml of potassium antimony tartrate solution 
    4. Add 70ml MQ water
    5. Store room temp, solution is shelf stable for months
-2. Potassium Phosphate (K2HPO4) Primary Stock **CORRECT MATH
+2. Potassium Phosphate (K2HPO4) Primary Stock
    1. Weigh ~0.5g of K2HPO4 into 50mL Centrifuge tube
    2. Add 50 mL water, vortex
    3. Calculate exact concentration
@@ -74,27 +77,30 @@ Murphy and Riley (1962) A Modified Single Solution Method for the Determination 
 
 ### Materials Preparation
 1. Remove samples from -80 freezer, place on ice to thaw
-2. Make Working phosphate stock (1000 μM)
+2. Make Working phosphate stock (1000μM)
    1. Make 50 mL of 1000 μM working stock from primary stock, C1V1 = C2V2
    3. Primary Stock Conc _________ μM x ____  mL = 1000μM x 50 mL
-      1. E.g. X = (1000*50/94220) = 0.871mL = 871μL
+      1. E.g. X = (1000*50/57412) = 0.871mL = 871μL
    4. Add 871μL of primarily stock to 49.129mL MQ water
    5. Store in the fridge
 3. Label 9x 50 mL centrifuge tubes as follows:
-   1. 1000nM
-   2. 500nM
-   3. 250nM
-   4. 125nM
-   5. 62.5nM
-   6. 31.25nM
-   7. 15.625nM
-   8. 7.8125nM
-   9. 0nM
-4. Rinse all centrifuge tubes 3x each with MQ water before use
-5. Add 25mL MQ water to each tube except the 1000nM tube. Add 50mL water to the 1000nM tube
-6. Add 50μL of the 1000μM Working stock into the labeled 1000nM centrifuge tube containing 50mL of water. Vortex.
-7. Take 25mL from the 1000nM tube and add to the “500nM” tube. Mix well.
-8. Continue, using serial dilutions by adding 25mL of each previous tube to the 25mL of water in the next.
+   1. 5uM
+   2. 2.5uM
+   3. 1.25uM
+   4. 0.625uM
+   5. 0.3125uM 
+   6. 0.15625uM
+   7. 0.078125uM
+   8. 0.0390625uM
+   9. 0uM
+4. Add 25mL MQ water to each tube except the 5uM tube.
+5. Add 50mL water to the 5uM tubes
+6. Add 125μL of the 1000μM Working stock into the labeled 5uM centrifuge tube containing 50mL of water.
+7. Vortex
+8. Take 25mL from the 5uM tube and add to the “2.5uM” tube. 
+9. Vortex
+10. Continue, using serial dilutions by adding 25mL of each previous tube to the 25mL of water in the next.
+11. Do not add anything to the 0uM standard. 
 
 ### Primary Procedure 
 1. Transfer 5mL of sample or standard into a 15mL reaction tube
@@ -108,3 +114,6 @@ Murphy and Riley (1962) A Modified Single Solution Method for the Determination 
 
 ### Waste Protocols 
 1. All chemical waste can be disposed of in the same container; none are sink disposable-----------------------------
+
+
+
