@@ -80,19 +80,19 @@ Murphy and Riley (1962) A Modified Single Solution Method for the Determination 
 2. Make Working phosphate stock (1000 μM)
    1. Make 50 mL of 1000 μM working stock from primary stock, C1V1 = C2V2
    3. Primary Stock Conc _________ μM x ____  mL = 1000μM x 50 mL
-      1. E.g. X = (1000*50/94220) = 0.871mL = 871μL
+      1. E.g. X = (1000*50/57412) = 0.871mL = 871μL
    4. Add 871μL of primarily stock to 49.129mL MQ water
    5. Store in the fridge
 3. Label 9x 50 mL centrifuge tubes as follows:
-   1. 1000nM
-   2. 500nM
-   3. 250nM
-   4. 125nM
-   5. 62.5nM
-   6. 31.25nM
-   7. 15.625nM
-   8. 7.8125nM
-   9. 0nM
+   1. 5mM
+   2. 2.5mM
+   3. 1.25mM
+   4. 0.625mM
+   5. 0.3125mM 
+   6. 0.15625mM
+   7. 0.078125mM
+   8. 0.0390625mM
+   9. 0mM
 4. Rinse all centrifuge tubes 3x each with MQ water before use
 5. Add 25mL MQ water to each tube except the 1000nM tube. Add 50mL water to the 1000nM tube
 6. Add 50μL of the 1000μM Working stock into the labeled 1000nM centrifuge tube containing 50mL of water. Vortex.
