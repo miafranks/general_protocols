@@ -99,18 +99,17 @@ Wash Pipette tips with MQ water
    1. Label 8x 50ml tubes from 1-8
    2. Fill all tubes with 40ml MQ water
    3. Following the table below, add the designated colume of 55uM secondary standard to each tube. Wash 8x 50ml falcon tubes 3x with MQ water ****
-
-| Tube Number | Volume of Secondary Standard (µL)   | Volume of the seawater dilution matrix (mL) |  Final [NH4+] (µM) |
-| ----------- | ----------------------------------- | ------------------------------------------- | ------------------ |
-|1            | 0                                   | 40                                          | 0                  |
-|2            | 12.5                                | 40                                          | 0.0172             |
-|3            | 25                                  | 40                                          | 0.0344             |         
-|4            | 50                                  | 40                                          | 0.0687             |
-|5            | 125                                 | 40                                          | 0.171              |
-|6            | 250                                 | 40                                          | 0.342              |
-|7            | 500                                 | 40                                          | 0.679              |
-|8            | 1000                                | 40                                          | 1.341              |
-
+   4. Label 9x50mL centrifuge tubes as follows:
+     1. 10µM
+     2. 5µM
+     3. 2.5µM
+     4. 1.25µM
+     5. 0.625µM
+     6. 0.3125µM 
+     7. 0.15625µM
+     8. 0.078125µM
+     9. 0.0390625µM
+     10. 0µM
 
 ### Primary Procedure 
 1. Defrost samples
