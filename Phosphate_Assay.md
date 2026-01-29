@@ -2,6 +2,8 @@
 
 Murphy and Riley (1962) A Modified Single Solution Method for the Determination of Phosphate in Natural Waters. Analytica Chimica Acta 27(1962)31-36. 
 
+pandoc Phosphate_Assay.md -o NPhosphate_Assay.pdf --pdf-engine=lualatex -V geometry:margin=1in
+
 ### Materials 
 * 15 mL centrifuge tubes (10 for standard curve + # of samples) 
 * Pipettes and tips
@@ -72,16 +74,16 @@ Murphy and Riley (1962) A Modified Single Solution Method for the Determination 
    1. Weigh ~0.5g of K2HPO4 into 50mL Centrifuge tube
    2. Add 50 mL water, vortex
    3. Calculate exact concentration
-      1. ________g / [(174.18g/mol)x50mL] * 1x10^9 = μM
-      2. E.g. If 0.5 g, = 57412 μM
+      1. ________g / [(174.18g/mol)x50mL] * 1x10^9 = uM
+      2. E.g. If 0.5 g, = 57412 uM
 
 ### Materials Preparation
 1. Remove samples from -80 freezer, place on ice to thaw
 2. Make Working phosphate stock (1000μM)
-   1. Make 50 mL of 1000 μM working stock from primary stock, C1V1 = C2V2
-   3. Primary Stock Conc _________ μM x ____  mL = 1000μM x 50 mL
-      1. E.g. X = (1000*50/57412) = 0.871mL = 871μL
-   4. Add 871μL of primarily stock to 49.129mL MQ water
+   1. Make 50 mL of 1000 uM working stock from primary stock, C1V1 = C2V2
+   3. Primary Stock Conc _________ uM x ____  mL = 1000μM x 50 mL
+      1. E.g. X = (1000*50/57412) = 0.871mL = 871uL
+   4. Add 871uL of primarily stock to 49.129mL MQ water
    5. Store in the fridge
 3. Label 9x 50 mL centrifuge tubes as follows:
    1. 5uM
@@ -95,7 +97,7 @@ Murphy and Riley (1962) A Modified Single Solution Method for the Determination 
    9. 0uM
 4. Add 25mL MQ water to each tube except the 5uM tube.
 5. Add 50mL water to the 5uM tubes
-6. Add 125μL of the 1000μM Working stock into the labeled 5uM centrifuge tube containing 50mL of water.
+6. Add 125uL of the 1000uM Working stock into the labeled 5uM centrifuge tube containing 50mL of water.
 7. Vortex
 8. Take 25mL from the 5uM tube and add to the “2.5uM” tube. 
 9. Vortex
@@ -104,8 +106,8 @@ Murphy and Riley (1962) A Modified Single Solution Method for the Determination 
 
 ### Primary Procedure 
 1. Transfer 5mL of sample or standard into a 15mL reaction tube
-2. Add 150μL of MIXED REAGENT and vortex
-3. Add 150μL of Ascorbic Acid and vortex
+2. Add 150uL of MIXED REAGENT and vortex
+3. Add 150uL of Ascorbic Acid and vortex
 4. Let the samples react for 30min in the dark
    1. Can be achieved with aluminum foil 
 5. Transfer 1mL of sample into a glass/disposable cuvette and measure absorbance at 880nm in the spectrophotometer
