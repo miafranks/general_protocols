@@ -3,6 +3,8 @@ Holmes et al (1999) A simple and precise method for measuring ammonium in marine
 
 Taylor et al (2007) Improving the fluorometric ammonium method: matrix effects, background fluoresence, and standard additions. J. N. Benthol. Soc. 26(2):167-177
 
+pandoc Ammonium_Assay.md -o Ammonium_Assay.pdf --pdf-engine=lualatex -V geometry:margin=1in
+
 ### Materials 
 * 10x 50ml Falcon Tubes
 * 15ml Falcon tubes (# of samples) 
