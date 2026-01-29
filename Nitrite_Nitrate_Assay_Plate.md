@@ -3,7 +3,7 @@ Jones, M.N (1984) Nitrate Reduction by Shaking with Cadmium. Water Res.18(5): 64
 
 Zoey's lab link: https://www.protocols.io/view/measuring-nitrate-nitrite-nox-concentrations-in-wa-rm7vzyyjxlx1/v1?step=5.4
 
-pandoc Nitrite_Assay_Plate.md -o Nitrite_Assay_Plate.pdf --pdf-engine=lualatex -V geometry:margin=1in
+pandoc Nitrite_Nitrate_Assay_Plate.md -o Nitrite_Nitrate_Assay_Plate.pdf --pdf-engine=lualatex -V geometry:margin=1in
 
 ### Materials 
 * Shaker
@@ -169,6 +169,7 @@ pandoc Nitrite_Assay_Plate.md -o Nitrite_Assay_Plate.pdf --pdf-engine=lualatex -
 ### Waste Protocols 
 1. Empty plates into liquid chemical waste
 2. Put plates in solid chemical waste 
+
 
 
 
