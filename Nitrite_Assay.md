@@ -55,11 +55,20 @@ Parsons, T. (2013). *A manual of chemical & biological methods for seawater anal
 
 ### Material Preparation 
 1. Make standards
-   1. Label 10 x 50mL Falcon Tubes as follows:
-      2. 10µM, 5µM, 2.5µM, 1.25µM, 0.625µM, 0.3125µM, 0.15625µM, 0.078125µM, 0.0390625µM, 0µM
+   1. Label 10x 50mL Falcon Tubes as follows:
+      1. 10uM
+      2. 5uM
+      3. 2.5uM
+      4. 1.25uM
+      5. 0.625uM
+      6. 0.3125uM
+      7. 0.15625uM
+      8. 0.078125uM
+      9. 0.0390625uM
+      10. 0uM
 2. Rinse all tubes 3x with MQ water
 3. Make 1000nM nitrate standard
-   1. In the 1000nM tube, add 50 µL of 1 mM NO2 working stock into 49.95mL MQ water
+   1. In the 1000nM tube, add 50 µL of 1mM NO2 working stock into 49.95mL MQ water
    2. Vortex
 4. Serial Dilutions to make standards
    1. Add 25ml MQ water to each empty tube
@@ -78,5 +87,5 @@ Parsons, T. (2013). *A manual of chemical & biological methods for seawater anal
 7. Measure absorbance at 525nm
 
 ### Waste Protocols 
-1. Dispose --------------------------
+1. Dispose in chemical waste
 
