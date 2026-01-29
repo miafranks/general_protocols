@@ -81,13 +81,13 @@ pandoc Ammonium_Assay.md -o Ammonium_Assay.pdf --pdf-engine=lualatex -V geometry
    4. Treat as a sample for processing and use it to determine background fluorescence 
 
 ### Material Preparation 
-Wash Pipette tips with MQ water
-1. Secondary Working Stock for Ammonium (100uM) (USING STANDARD)
+1. Wash Pipette tips with MQ water
+2. Secondary Working Stock for Ammonium (100uM) (USING STANDARD)
    1. Rinse 50ml falcon tube 3x with MQ water
    2. Fill with 50ml MQ water
    3. Add 90.9ul of Ammonium standard for IC (55mM) to tube
    4. Vortex
-2. Secondary Working Stock for Ammonium (55uM) (USING PRIMARY WORKING STOCK)
+3. Secondary Working Stock for Ammonium (55uM) (USING PRIMARY WORKING STOCK)
    1. Calculate volume of primary stock needed
       1. Primary stock conc. __________ mM (X volume_______ml) = 0.1mM(50ml)
       2. Ex. If primary stock is 10mM, X = 0.5ml or 500ul
@@ -97,7 +97,7 @@ Wash Pipette tips with MQ water
    2. Leave overnight
    3. Rinse with MQ water and leave to dry
    4. All times after first conditioning, WR rinse isn't required 
-3. Standard Preparation
+5. Standard Preparation
    1. Label 10x 50ml tubes from 1-10 with the below concentrations
    2. Label 9x50mL centrifuge tubes as follows:
      1. 10µM
