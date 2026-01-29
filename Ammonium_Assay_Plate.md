@@ -3,6 +3,8 @@ Holmes et al (1999) A simple and precise method for measuring ammonium in marine
 
 Ref from Zoey: https://www.protocols.io/view/measuring-ammonium-nh4-concentrations-in-water-sam-5qpvobb3zl4o/v1?step=6
 
+pandoc Ammonium_Assay_Plate.md -o Ammonium_Assay_Plate.pdf --pdf-engine=lualatex -V geometry:margin=1in
+
 ### Materials 
 * 10x 50ml Falcon Tubes
 * 15ml Falcon tubes
