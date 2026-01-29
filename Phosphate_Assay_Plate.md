@@ -100,8 +100,17 @@ Murphy and Riley (1962) A Modified Single Solution Method for the Determination 
 8. Take 25mL from the 5uM tube and add to the “2.5uM” tube. 
 9. Vortex
 10. Continue, using serial dilutions by adding 25mL of each previous tube to the 25mL of water in the next.
-11. Do not add anything to the 0uM standard. 
+11. Do not add anything to the 0uM standard.
 
+### Primary Procedure 
+1. Defrost samples
+2. Label microcentrifuge tubes for all standards and samples
+3. Add 1ml of Working Reagent to each tube, working in dim light 
+4. Add 250 uL of sample, standard, or MQ water to each corresponding tube
+5. Mix (invert or vortex) and incubate in the dark at room temperature for 2-3 hours
+6. Transfer 250uL of each reaction to triplicate wells of a 96-well microplate and measure fluorescence on plate reader
+7. Turn on plate reader prior for warm up time 
+8. Read plate at 350±9 nm excitation and 422±20 nm emission (fluorescence top mode, manual Z-position set to 24995 um, 25 flashes, manual gain of 100, 20 us integration time)
 ### Primary Procedure 
 1. Transfer 5mL of sample or standard into a 15mL reaction tube
 2. Add 150μL of MIXED REAGENT and vortex
@@ -111,6 +120,14 @@ Murphy and Riley (1962) A Modified Single Solution Method for the Determination 
 5. Transfer 1mL of sample into a glass/disposable cuvette and measure absorbance at 880nm in the spectrophotometer
    1. The color for the samples is stable for up to 1hr
    2. Standards for this method are measured immediately before and after samples to correct for drift
+
+### Analysis 
+1. Subtract the fluorescence values of the samples mixed with MQ water or borate buffer instead of the Working Reagent (sample blanks) from the corresponding reacted sample fluorescence’s (= corrected sample fluorescence)
+2. Subtract the average fluorescence of the MQ water tubes (i.e., 0uM ammonium) mixed with borate buffer instead of Working Reagent (standard blanks) from the fluorescence values of all the standards
+3. Plot corrected fluorescence (y) vs. concentration (x) for all standards to establish a standard curve with linear regression
+4. Use the equation of the standard curve to calculate sample concentration from fluorescence
+
+
 
 ### Waste Protocols 
 1. All chemical waste can be disposed of in the same container; none are sink disposable-----------------------------
