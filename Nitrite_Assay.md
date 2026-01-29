@@ -41,8 +41,8 @@ Parsons, T. (2013). *A manual of chemical & biological methods for seawater anal
 4. NEDD Solution
    1. In a brown bottle, combine 0.25g in 250mL MQ
    2. Store at room temperature
-5. Nitrite Working Stock (1mM/1000uM)
-   1. Weigh ~ 0.25g of NaNO2 into a 50 mL Falcon tube
+5. Nitrite Working Stock (0.10M)
+   1. Weigh ~ 0.345g of NaNO2 into a 50 mL Falcon tube
    2. Add up to 50 mL water, mix well
    3. Calculate exact concentration
       1. _______g/(69g/mol*50mL)*1,000,000 = __________mM
@@ -55,8 +55,8 @@ Parsons, T. (2013). *A manual of chemical & biological methods for seawater anal
 
 ### Material Preparation 
 1. Make standards
-   1. Label 9x 50mL Falcon Tubes as follows:
-      2. 1000, 500, 250, 125, 62.5, 31.25, 15.625, 7.8125, 0nM
+   1. Label 10 x 50mL Falcon Tubes as follows:
+      2. 10µM, 5µM, 2.5µM, 1.25µM, 0.625µM, 0.3125µM, 0.15625µM, 0.078125µM, 0.0390625µM, 0µM
 2. Rinse all tubes 3x with MQ water
 3. Make 1000nM nitrate standard
    1. In the 1000nM tube, add 50 µL of 1 mM NO2 working stock into 49.95mL MQ water
