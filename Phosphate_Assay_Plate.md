@@ -104,33 +104,32 @@ Murphy and Riley (1962) A Modified Single Solution Method for the Determination 
 
 ### Primary Procedure 
 1. Defrost samples
-2. Label microcentrifuge tubes for all standards and samples
-3. Add 1ml of Working Reagent to each tube, working in dim light 
-4. Add 250 uL of sample, standard, or MQ water to each corresponding tube
-5. Mix (invert or vortex) and incubate in the dark at room temperature for 2-3 hours
-6. Transfer 250uL of each reaction to triplicate wells of a 96-well microplate and measure fluorescence on plate reader
-7. Turn on plate reader prior for warm up time 
-8. Read plate at 350±9 nm excitation and 422±20 nm emission (fluorescence top mode, manual Z-position set to 24995 um, 25 flashes, manual gain of 100, 20 us integration time)
-### Primary Procedure 
-1. Transfer 5mL of sample or standard into a 15mL reaction tube
-2. Add 150μL of MIXED REAGENT and vortex
-3. Add 150μL of Ascorbic Acid and vortex
-4. Let the samples react for 30min in the dark
-   1. Can be achieved with aluminum foil 
-5. Transfer 1mL of sample into a glass/disposable cuvette and measure absorbance at 880nm in the spectrophotometer
-   1. The color for the samples is stable for up to 1hr
-   2. Standards for this method are measured immediately before and after samples to correct for drift
+2. Test 1
+   1. Add 200ul of sample/standard/MQ water to the appropriate wells of a clear 96 well plate
+   2. Add 30ul of Mixed Reagent to each well
+   3. Mix briefly by pipetting (use multichannel pipet)
+   4. Add 30ul of Ascorbic Acid to each well
+   5. Mix briefly by pipetting (use multichannel pipet)
+   6. Be wary of bubbles
+3. Test 2
+   1. Add 80ul of sample/standard/MQ water to the appropriate wells of a clear 96 well plate
+   2. Add 80ul of Mixed Reagent to each well
+   3. Mix briefly by pipetting (use multichannel pipet)
+   4. Add 80ul of Ascorbic Acid to each well
+   5. Mix briefly by pipetting (use multichannel pipet)
+   6. Be wary of bubbles 
+4. Incubate in the dark at room temperature for 30min
+5. Turn on plate reader prior for warm up time 
+6. Read absorbance 880nm excitation
 
 ### Analysis 
-1. Subtract the fluorescence values of the samples mixed with MQ water or borate buffer instead of the Working Reagent (sample blanks) from the corresponding reacted sample fluorescence’s (= corrected sample fluorescence)
-2. Subtract the average fluorescence of the MQ water tubes (i.e., 0uM ammonium) mixed with borate buffer instead of Working Reagent (standard blanks) from the fluorescence values of all the standards
+1. Subtract the fluorescence values of the samples mixed with MQ water instead of the Mixed Reagent (sample blanks) from the corresponding reacted sample fluorescence’s (= corrected sample fluorescence)
+2. Subtract the average fluorescence of the MQ water tubes (i.e., 0uM phosphate) mixed with borate buffer instead of Mixed Reagent (standard blanks) from the fluorescence values of all the standards
 3. Plot corrected fluorescence (y) vs. concentration (x) for all standards to establish a standard curve with linear regression
-4. Use the equation of the standard curve to calculate sample concentration from fluorescence
-
-
+4. Use the equation of the standard curve to calculate sample concentration from absorbance
 
 ### Waste Protocols 
-1. All chemical waste can be disposed of in the same container; none are sink disposable-----------------------------
+1. All chemical waste can be disposed of in the same container
 
 
 
