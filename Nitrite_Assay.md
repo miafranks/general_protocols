@@ -48,7 +48,7 @@ Parsons, T. (2013). *A manual of chemical & biological methods for seawater anal
       1. _______g/(69g/mol*50mL)*1,000,000 = __________mM
       2. Multiply by 1000 to get uM concentration
    4. Make Secondary (working) stock (1mM) from primary stock concentration
-      1. (Primary stock concentration)___________uM x ______ml = 1000 µM x 50 mL
+      1. (Primary stock concentration)___________uM x ______ml = 1000 uM x 50 mL
       2. ____________ uL = (1000uM*50ml/(primary stock concentration)__________uM)*1000
       3. Combine ___________ µL of primary working stock with up to 50ml MQ water
    5. Filter through a 0.2um filter to sterilize and store in fridge 
