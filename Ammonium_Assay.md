@@ -80,26 +80,24 @@ Taylor et al (2007) Improving the fluorometric ammonium method: matrix effects, 
 
 ### Material Preparation 
 Wash Pipette tips with MQ water
-1. Secondary Working Stock for Ammonium (55uM) (USING STANDARD)
+1. Secondary Working Stock for Ammonium (100uM) (USING STANDARD)
    1. Rinse 50ml falcon tube 3x with MQ water
    2. Fill with 50ml MQ water
-   3. Add 50ul of Ammonium standard for IC (55mM) to tube
+   3. Add 90.9ul of Ammonium standard for IC (55mM) to tube
    4. Vortex
 2. Secondary Working Stock for Ammonium (55uM) (USING PRIMARY WORKING STOCK)
    1. Calculate volume of primary stock needed
-      1. Primary stock conc. __________ mM (X volume_______ml) = 0.055mM(50ml)
-      2. Ex. If primary stock is 10mM, X = 0.275ml or 275ul
-   2. Combine primary stock volume with up to 50ml of MQ water (Ex. 275ul primary stock + 9.725ml MQ)
+      1. Primary stock conc. __________ mM (X volume_______ml) = 0.1mM(50ml)
+      2. Ex. If primary stock is 10mM, X = 0.5ml or 500ul
+   2. Combine primary stock volume with up to 50ml of MQ water (Ex. 500ul primary stock + 9.5ml MQ)
 4. Precondition tubes and pipette tips
    1. Wash 8x 50ml falcon tubes, 15ml falcon tubes (enough for all samples), the cuvette, and any potential pipette tips with Working Reagent
    2. Leave overnight
    3. Rinse with MQ water and leave to dry
    4. All times after first conditioning, WR rinse isn't required 
 3. Standard Preparation
-   1. Label 8x 50ml tubes from 1-8
-   2. Fill all tubes with 40ml MQ water
-   3. Following the table below, add the designated colume of 55uM secondary standard to each tube. Wash 8x 50ml falcon tubes 3x with MQ water ****
-   4. Label 9x50mL centrifuge tubes as follows:
+   1. Label 10x 50ml tubes from 1-10 with the below concentrations
+   2. Label 9x50mL centrifuge tubes as follows:
      1. 10µM
      2. 5µM
      3. 2.5µM
@@ -110,6 +108,12 @@ Wash Pipette tips with MQ water
      8. 0.078125µM
      9. 0.0390625µM
      10. 0µM
+   3. Fill tubes 2-10 with 25ml MQ water
+   4. To make the first concentration, combine 5ml of the 100uM secondary working stock with 45ml MQ water
+   5. Vortex
+   6. Take 25ml from the 10uM tube and combine it with the 25ml MQ water in tube #2.
+   7. Vortex
+   8. Continue serial dilutions until tube 9. Do not add anyting to tube 10. 
 
 ### Primary Procedure 
 1. Defrost samples
