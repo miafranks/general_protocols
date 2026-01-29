@@ -2,7 +2,7 @@
 
 Murphy and Riley (1962) A Modified Single Solution Method for the Determination of Phosphate in Natural Waters. Analytica Chimica Acta 27(1962)31-36. 
 
-pandoc Phosphate_Assay.md -o NPhosphate_Assay.pdf --pdf-engine=lualatex -V geometry:margin=1in
+pandoc Phosphate_Assay.md -o Phosphate_Assay.pdf --pdf-engine=lualatex -V geometry:margin=1in
 
 ### Materials 
 * 15 mL centrifuge tubes (10 for standard curve + # of samples) 
@@ -74,14 +74,14 @@ pandoc Phosphate_Assay.md -o NPhosphate_Assay.pdf --pdf-engine=lualatex -V geome
    1. Weigh ~0.5g of K2HPO4 into 50mL Centrifuge tube
    2. Add 50 mL water, vortex
    3. Calculate exact concentration
-      1. ________g / [(174.18g/mol)x50mL] * 1x10^9 = uM
+      1. ________g / ((174.18g / mol) x 50mL) * 1x10^9 = uM
       2. E.g. If 0.5 g, = 57412 uM
 
 ### Materials Preparation
 1. Remove samples from -80 freezer, place on ice to thaw
-2. Make Working phosphate stock (1000μM)
+2. Make Working phosphate stock (1000uM)
    1. Make 50 mL of 1000 uM working stock from primary stock, C1V1 = C2V2
-   3. Primary Stock Conc _________ uM x ____  mL = 1000μM x 50 mL
+   3. Primary Stock Conc _________ uM x ____  mL = 1000uM x 50 mL
       1. E.g. X = (1000*50/57412) = 0.871mL = 871uL
    4. Add 871uL of primarily stock to 49.129mL MQ water
    5. Store in the fridge
