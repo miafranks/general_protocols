@@ -2,6 +2,8 @@
 
 Parsons, T. (2013). *A manual of chemical & biological methods for seawater analysis*. Elsevier
 
+pandoc Nitrite_Assay.md -o Nitrite_Assay.pdf --pdf-engine=lualatex -V geometry:margin=1in
+
 ### Materials 
 * 50ml Falcon tubes
 * 15ml falcon tubes
