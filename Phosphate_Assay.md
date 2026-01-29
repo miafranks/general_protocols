@@ -113,7 +113,7 @@ Murphy and Riley (1962) A Modified Single Solution Method for the Determination 
    2. Standards for this method are measured immediately before and after samples to correct for drift
 
 ### Waste Protocols 
-1. All chemical waste can be disposed of in the same container; none are sink disposable-----------------------------
+1. All chemical waste can be disposed of in the same container; none are sink disposable
 
 
 
