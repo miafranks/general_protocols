@@ -5,10 +5,10 @@ Ref from Zoey: https://www.protocols.io/view/measuring-ammonium-nh4-concentratio
 
 ### Materials 
 * 10x 50ml Falcon Tubes
-* 15ml Falcon tubes (# of samples) 
-* 200 and 1000 µL filter tips
-* 200 and 1000 µL pipettes
-* microcentrifuge tubes
+* 15ml Falcon tubes
+* 200 and 1000 uL filter tips
+* 200 and 1000 uL pipettes
+* Microcentrifuge tubes
 * Tube racks
 * Culture Tubes
 * Kim Wipes
@@ -82,50 +82,56 @@ Ref from Zoey: https://www.protocols.io/view/measuring-ammonium-nh4-concentratio
 
 ### Material Preparation 
 1. Wash Pipette tips with MQ water
-2. Secondary Working Stock for Ammonium (55uM) (USING STANDARD)
+2. Secondary Working Stock for Ammonium (100uM) (USING STANDARD)
    1. Rinse 50ml falcon tube 3x with MQ water
    2. Fill with 50ml MQ water
-   3. Add 50ul of Ammonium standard for IC (55mM) to tube
+   3. Add 90.9ul of Ammonium standard for IC (55mM) to tube
    4. Vortex
-3. Secondary Working Stock for Ammonium (55uM) (USING PRIMARY WORKING STOCK)
+3. Secondary Working Stock for Ammonium (100uM) (USING PRIMARY WORKING STOCK)
    1. Calculate volume of primary stock needed
-      1. Primary stock conc. __________ mM (X volume_______ml) = 0.055mM(50ml)
-      2. Ex. If primary stock is 10mM, X = 0.275ml or 275ul
-   2. Combine primary stock volume with up to 50ml of MQ water (Ex. 275ul primary stock + 9.725ml MQ)
+      1. Primary stock conc. __________ mM (X volume_______ml) = 0.1mM(50ml)
+      2. Ex. If primary stock is 10mM, X = 0.5ml or 500ul
+   2. Combine primary stock volume with up to 50ml of MQ water (Ex. 500ul primary stock + 9.5ml MQ)
 4. Precondition tubes and pipette tips
-   1. Wash tubes (enough for all samples) and any potential pipette tips with Working Reagent
+   1. Wash 8x 50ml falcon tubes, 15ml falcon tubes (enough for all samples), the cuvette, and any potential pipette tips with Working Reagent
    2. Leave overnight
    3. Rinse with MQ water and leave to dry
    4. All times after first conditioning, WR rinse isn't required 
-5. Standard Preparation Ammonium Standards 
-   1. Label 7x 50ml tubes from 1-7
-   2. Following the table below, add the designated colume of 55uM secondary standard and MQ water to each tube. 
-
-| Tube Number | Volume of 55uM Secondary Standard (µL)   | Vol MQ Water (mL) |  Final [NH4+] (µM) |
-| ----------- | ---------------------------------------- | ----------------- | ------------------ |
-|1            | 0                                        | 50                | 0                  |
-|2            | 9                                        | 50                | 0.5                |
-|3            | 227                                      | 50                | 1.25               |         
-|4            | 455                                      | 50                | 2.5                |
-|5            | 909                                      | 50                | 5                  |
-|6            | 1364                                     | 50                | 7.5                |
-|7            | 1818                                     | 50                | 10                 |
-
+5. Standard Preparation
+   1. Label 10x 50ml tubes from 1-10 with the below concentrations
+   2. Label 9x50mL centrifuge tubes as follows:
+     1. 10µM
+     2. 5µM
+     3. 2.5µM
+     4. 1.25µM
+     5. 0.625µM
+     6. 0.3125µM 
+     7. 0.15625µM
+     8. 0.078125µM
+     9. 0.0390625µM
+     10. 0µM
+   3. Fill tubes 2-10 with 25ml MQ water
+   4. To make the first concentration, combine 5ml of the 100uM secondary working stock with 45ml MQ water
+   5. Vortex
+   6. Take 25ml from the 10uM tube and combine it with the 25ml MQ water in tube #2.
+   7. Vortex
+   8. Continue serial dilutions until tube 9. Do not add anyting to tube 10.
+  
 ### Primary Procedure 
 1. Defrost samples
 2. Label microcentrifuge tubes for all standards and samples
 3. Add 1ml of Working Reagent to each tube, working in dim light 
-4. Add 250 µL of sample, standard, or MQ water to each corresponding tube
+4. Add 250 uL of sample, standard, or MQ water to each corresponding tube
 5. Mix (invert or vortex) and incubate in the dark at room temperature for 2-3 hours
-6. Transfer 250µL of each reaction to triplicate wells of a 96-well microplate and measure fluorescence on plate reader
+6. Transfer 250uL of each reaction to triplicate wells of a 96-well microplate and measure fluorescence on plate reader
 7. Turn on plate reader prior for warm up time 
-8. Read plate at 350±9 nm excitation and 422±20 nm emission (fluorescence top mode, manual Z-position set to 24995 µm, 25 flashes, manual gain of 100, 20 µs integration time)
+8. Read plate at 350±9 nm excitation and 422±20 nm emission (fluorescence top mode, manual Z-position set to 24995 um, 25 flashes, manual gain of 100, 20 us integration time)
 
 ### Analysis 
-1. Subtract the fluorescence values of the samples mixed with MQ water or borate buffer instead of the Working Reagent (sample blanks) from the corresponding reacted sample fluorescence’s (= corrected sample fluorescence)------------------
-2. Subtract the average fluorescence of the MQ water tubes (i.e., 0µM ammonium) mixed with borate buffer instead of Working Reagent (standard blanks) from the fluorescence values of all the standards
+1. Subtract the fluorescence values of the samples mixed with MQ water or borate buffer instead of the Working Reagent (sample blanks) from the corresponding reacted sample fluorescence’s (= corrected sample fluorescence)
+2. Subtract the average fluorescence of the MQ water tubes (i.e., 0uM ammonium) mixed with borate buffer instead of Working Reagent (standard blanks) from the fluorescence values of all the standards
 3. Plot corrected fluorescence (y) vs. concentration (x) for all standards to establish a standard curve with linear regression
 4. Use the equation of the standard curve to calculate sample concentration from fluorescence
 
 ### Waste Protocols 
-1. Make a waste container to dispose of all liquids ---------------------
+1. Make a waste container to dispose of all liquids 
