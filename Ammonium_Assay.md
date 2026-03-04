@@ -50,8 +50,9 @@ pandoc Ammonium_Assay.md -o Ammonium_Assay.pdf --pdf-engine=lualatex -V geometry
 
 ### Reagent Preparation
 1. Borate Buffer 
-   1. In a schott bottle, add 40g of Sodium Tetraborate and 1L of MilliQ Water
+   1. In a schott bottle, add 21.1g of Sodium Tetraborate and 1L of MilliQ Water
    2. If not dissolving, mix on stir plate
+   3. If using sodium tetraborate decahydrate, add 40g to 1L MQ
 2. Sodium Sulfite Solution
    1. In a schott bottle, combine 1g of sodium sulfite and 125 mL of MilliQ Water
    2. Shake to mix
